@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "GitHub": "https://github.com/CyberSec626",
       "YouTube": "https://www.youtube.com/@AmaraíSantos",
       "Hack The Box": "https://app.hackthebox.com/public/users/1980227",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      //"Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
