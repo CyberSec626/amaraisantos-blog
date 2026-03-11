@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Amaraí Santos Blog</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Amaraí Santos Blog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Active</title>
+    <link>https://quartz.jzhao.xyz/OSCP-Prep/Active/Active</link>
+    <guid>https://quartz.jzhao.xyz/OSCP-Prep/Active/Active</guid>
+    <description><![CDATA[  teste Teste Bash nc -nlvp 9090 python3 -m http.server 9090 Teste powershell Set-DomainUserPassword -Identity testda -AccountPassword (ConvertTo-SecureString &quot;Password@123&quot;&gt; Teste cmd net localgroup Administrators test /add . ]]></description>
+    <pubDate>Sat, 07 Mar 2026 19:10:57 GMT</pubDate>
+  </item><item>
+    <title>Obsidian</title>
+    <link>https://quartz.jzhao.xyz/CheatSheet/Obsidian</link>
+    <guid>https://quartz.jzhao.xyz/CheatSheet/Obsidian</guid>
+    <description><![CDATA[  #ObsidianCheatCheet CheatSheet Principal Palavras importantes: O ataque EvilTwin consiste em criar um Rogue AP. ]]></description>
+    <pubDate>Sat, 07 Mar 2026 04:34:31 GMT</pubDate>
+  </item><item>
+    <title>Amaraí Santos Blog</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Bem-vindo ao meu espaço de documentação técnica. Sou um profissional de Cibersegurança focado em operações ofensivas. ]]></description>
+    <pubDate>Fri, 06 Mar 2026 06:41:34 GMT</pubDate>
+  </item><item>
+    <title>Introduction</title>
+    <link>https://quartz.jzhao.xyz/Intro/Introduction</link>
+    <guid>https://quartz.jzhao.xyz/Intro/Introduction</guid>
+    <description><![CDATA[ The introduction goes here. ]]></description>
+    <pubDate>Fri, 06 Mar 2026 05:41:03 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://quartz.jzhao.xyz/Intro/Index</link>
+    <guid>https://quartz.jzhao.xyz/Intro/Index</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 06 Mar 2026 05:39:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
